@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCatApplication</string>
+    <string name="urlMurka">https://mrkot.com/wp-content/uploads/2018/09/koshka-britanskaya.jpg</string>
+    <string name="urlRosa">https://kormvmeshke.ru/upload/medialibrary/ad2/ad2c07c6e2afeed88f3b0c099245491f.jpg</string>
+    <string name="urlMatilda">https://101kote.ru/upload/resize_cache/iblock/b80/400_400_240cd750bba9870f18aada2478b24840a/domashniy_karakal.jpg</string>
+    <string name="urlNaomi">https://img.freepik.com/premium-photo/kitten-on-a-gray-background-maine-coon_474467-2931.jpg</string>
+
+
+    <string name="fullDescMurka">Breed: British Fold</string>
+    <string name="fullDescRosa">Breed: Sphynx</string>
+    <string name="fullDescMatilda">Breed: caracal</string>
+    <string name="fullDescNaomi">Breed: Maine Coon</string>
+</resources>
